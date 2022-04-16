@@ -23,11 +23,13 @@
     "rules": {
         "indent": [
             "error",
-            4
+            2
+            //4
         ],
         "linebreak-style": [
             "error",
             "windows"
+            //"linux"
         ],
         "quotes": [
             "error",
