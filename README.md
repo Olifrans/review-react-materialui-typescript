@@ -60,6 +60,8 @@ npx eslint --init
 
 corrigindo erros! yarn run eslint ./src/ --fix yarn eslint ./src/ --fix
 "rules": { "react/react-in-jsx-scope": "off", do react "indent": [ "error", 4 ],
+"react/prop-types": "off" --> erro do children
+
     validando:
     yarn eslint ./src/ --fix
 
