@@ -14,17 +14,30 @@ npm install --global yarn
 
 ## Instalação dos pacotes e bibliotecas:
 yarn add react-router-dom@6
-yarn add @mui/icons-material
 yarn add @mui/material @emotion/react @emotion/styled
-yarn add @mui/material @mui/styled-engine-sc styled-components
+yarn add @mui/icons-material
 yarn add json-server
 yarn add axios
 
 
-Using Axos via CDN:
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-Using unpkg CDN:
-<script src="https://unpkg.com/axios/dist/axios.min.js"></scrip
+
+## Fonte Roboto material UI
+MUI foi desenvolvida com base na fonte Roboto. Portanto, certifique-se de seguir estas instruções para carregá-la. Como alternativa, carregue através do Google Web Fonts:
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+/>
+
+# Ícones de fonte
+Para usar o componente de fonte Icon, você deve primeiramente adiciona a fonte de ícones Material. Aqui estão algumas instruções de como fazer isso. Como alternativa, carregue através do Google Web Fonts:
+
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+
+# Ícones SVG
+yarn add @mui/icons-material
 
 
 ## Instalação Eslint .eslintrc.json
