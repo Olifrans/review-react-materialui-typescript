@@ -13,8 +13,6 @@ npm install --global yarn
 
 
 ## Instalação dos pacotes e bibliotecas:
-
-Instalação React Router 
 yarn add react-router-dom@6
 yarn add @mui/icons-material
 yarn add @mui/material @emotion/react @emotion/styled
@@ -54,3 +52,9 @@ corrigindo erros! yarn run eslint ./src/ --fix yarn eslint ./src/ --fix
 
     
 
+
+
+
+
+Continuar:
+https://www.youtube.com/watch?v=44QQtoEy3ik&list=PL29TaWXah3iaqOejItvW--TaFr9NcruyQ&index=4
